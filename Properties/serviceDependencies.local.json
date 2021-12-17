@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:csci340lab7Context"
+    }
+  }
+}
